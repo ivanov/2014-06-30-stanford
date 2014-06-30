@@ -1,6 +1,6 @@
 ## Afternoon project:
 
-** Download set of data files [from here](http://npk.io/evvF+). **
+**Download set of data files [from here](http://npk.io/evvF+).**
 
 Then, from the command line:
 
