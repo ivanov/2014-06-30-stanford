@@ -14,7 +14,7 @@ Then, from the command line
 8. Add the new github repositiory as origin for your local working directory
 9. Push the changes to github
 
-Solution
+### Solution
 
 1. create a new directory to put the data directory in
 
