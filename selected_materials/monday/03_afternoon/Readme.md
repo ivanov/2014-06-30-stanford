@@ -78,11 +78,14 @@ Then, from the command line
           wc -l ${filename/-/-tr-}
         done
         ######################################
+    
+    Redirect the output of this script to a text file.    
+    `bash linecount.sh *.csv > linecount_results.txt`
 
 6. Commit those changes
 
-    `git add linecount.sh`    
-    `git commit -m 'created linecount script that also fixes line eding problem'`
+    `git add linecount.sh linecount_results.txt`    
+    `git commit -m 'created linecount script that also fixes line eding problem and added results text file'`
 
 7. Make a new repository for the project on github
 
