@@ -6,7 +6,7 @@ Then, from the command line
 
 1. create a new directory to put the data directory in
 2. initialize a git repository in the parent directory
-3. Write a shell script to process those files and add todays date to them
+3. Write a shell script to process those files and add today's date to their filenames
 4. Commit that script
 5. Write a script to count the number of lines in each file and store that to a text file
 6. Commit those changes
